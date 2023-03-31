@@ -6,8 +6,8 @@
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "cli": "nodemon ./src/cli.js ./arquivos/texto.md",
-    "cli:valida": "nodemon ./src/cli.js ./arquivos/texto.md --valida"
+    "cli": "nodemon ./src/cli.js ./files/texto.md",
+    "cli:valida": "nodemon ./src/cli.js ./files/texto.md --valida"
   },
   "repository": {
     "type": "git",
